@@ -1,5 +1,5 @@
 # Connie-RTC
-Phase 1 of the Connie CPaaS Prototype
+Fork of Phase 1 of the Connie CPaaS Prototype
 
 ## Login Info
 
